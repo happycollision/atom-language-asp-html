@@ -1,6 +1,6 @@
 {
   "name": "language-asp-html",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "ASP in HTML language support in Atom",
   "engines": {
     "atom": "*",
