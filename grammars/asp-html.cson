@@ -21,6 +21,11 @@
             'name': 'punctuation.whitespace.embedded.trailing.asp'
         'patterns': [
           {
+            'begin': '<%--'
+            'end': '--%>'
+            'name': 'comment.block.asp'
+          }
+          {
             'begin': '<%(#|@|=){0,1}'
             'beginCaptures':
               '0':
